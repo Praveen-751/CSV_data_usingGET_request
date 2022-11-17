@@ -58,3 +58,6 @@ To see the ouput you can open the files and see the data
 if you are using a jupyter IDE the results are shown there
 
 ## Examples
+![](https://raw.githubusercontent.com/Praveen-751/CSV_data_usingGET_request/main/IMG3.png )
+![](https://raw.githubusercontent.com/Praveen-751/CSV_data_usingGET_request/main/IMG1.png )
+![](https://raw.githubusercontent.com/Praveen-751/CSV_data_usingGET_request/main/IMG2.png )
